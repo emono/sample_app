@@ -181,11 +181,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-<<<<<<< HEAD
   bcrypt (= 3.1.12)
-=======
   bootstrap-sass (= 3.3.7)
->>>>>>> 2281510d5f6dca6b31e4ac1db69c666c8a85cb3a
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
